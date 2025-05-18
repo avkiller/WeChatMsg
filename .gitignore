@@ -14,6 +14,9 @@ app/data/emoji
 app/DataBase/Msg/*
 server
 *.db
+*.bin
+*.json
+*.txt
 *.ui
 *.pyc
 *.bat
